@@ -1,0 +1,9 @@
+# Ignorer les fichiers binaires
+*.exe
+*.bin
+*.out
+
+# Ignorer les fichiers objets
+*.o
+*.obj
+
